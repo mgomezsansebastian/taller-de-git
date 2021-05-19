@@ -1,3 +1,8 @@
+Curso de GIT
+
+Este proyecto contiene el curso de introducción a GIT
+
+Desarrollado por MGómez.
 MIT License
 
 Copyright (c) [year] [fullname]
